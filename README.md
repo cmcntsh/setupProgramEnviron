@@ -7,7 +7,7 @@
 
 ### Git/Git-bash
 * Download and install.
-* Mac - https://git-scm.com/downloads
+* Mac - https://git-scm.com/downloads (2021 update: The option to download git for Windows was also available here. Install using all the defaults.)
 * Windows - https://gitforwindows.org/
 
 ### GitHub
